@@ -1,0 +1,6 @@
+obj_dir/
+logs/
+*.vcd
+*.fst
+.vscode/
+*.swp
